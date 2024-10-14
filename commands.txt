@@ -1,3 +1,11 @@
 git config --global user.name "your user name"  [to add your name]
 
 git config --global user.email "your email name" [to add your email]
+
+git init                                         [to initialize a empty git repositery]
+
+git status                                        [to check untraked files ]
+
+git add -A                                       [to add all untracked files to sagging area]
+
+git commit -m "add commit massage while add commit" [to move staged file to local repositert]
