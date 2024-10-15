@@ -9,3 +9,5 @@ git status                                        [to check untraked files ]
 git add -A                                       [to add all untracked files to sagging area]
 
 git commit -m "add commit massage while add commit" [to move staged file to local repositert]
+
+git pull repositery=>changes=>localwork space
