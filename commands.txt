@@ -11,3 +11,5 @@ git add -A                                       [to add all untracked files to 
 git commit -m "add commit massage while add commit" [to move staged file to local repositert]
 
 git pull repositery=>changes=>localwork space
+
+git clone remot-repositery=exact copy localwork space
