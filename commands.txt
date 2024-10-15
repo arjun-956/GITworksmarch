@@ -13,3 +13,9 @@ git commit -m "add commit massage while add commit" [to move staged file to loca
 git pull repositery=>changes=>localwork space
 
 git clone remot-repositery=exact copy localwork space
+
+git remote add name path http:// [addi remote repositery]
+
+git push remote_name branch[push][master]
+
+git branch [list all branch]
