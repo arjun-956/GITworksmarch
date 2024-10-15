@@ -19,3 +19,5 @@ git remote add name path http:// [addi remote repositery]
 git push remote_name branch[push][master]
 
 git branch [list all branch]
+
+git remote -v list all remote[origin]
